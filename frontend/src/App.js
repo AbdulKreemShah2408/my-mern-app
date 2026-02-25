@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Learning devops with CI CD</h1>
+        <h1>Learning devops with CI CD action</h1>
       </header>
     </div>
   );
